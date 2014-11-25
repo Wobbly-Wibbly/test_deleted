@@ -1,0 +1,12 @@
+E:\Words\Words\obj\x86\Release\Words.Forms.Question.resources
+E:\Words\Words\obj\x86\Release\Words.Properties.Resources.resources
+E:\Words\Words\obj\x86\Release\Words.csproj.GenerateResource.Cache
+E:\Words\Words\obj\x86\Release\Words.csprojResolveAssemblyReference.cache
+F:\C#\1\Words\Words\bin\Release\Words.exe
+F:\C#\1\Words\Words\bin\Release\Words.pdb
+F:\C#\1\Words\Words\bin\Release\Newtonsoft.Json.dll
+F:\C#\1\Words\Words\obj\x86\Release\Words.Forms.Question.resources
+F:\C#\1\Words\Words\obj\x86\Release\Words.Properties.Resources.resources
+F:\C#\1\Words\Words\obj\x86\Release\Words.csproj.GenerateResource.Cache
+F:\C#\1\Words\Words\obj\x86\Release\Words.exe
+F:\C#\1\Words\Words\obj\x86\Release\Words.pdb
