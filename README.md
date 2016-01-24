@@ -1,3 +1,2 @@
 # Words
-Helps in learning words
-Under Construction
+Test project, don't bother to look into
